@@ -4,5 +4,4 @@
 - Chapter 1 - Python Introduction
 
 ## Reference
-<br>
-(Data Science with Python)[https://github.com/rubiagatra/data-science-with-python] by Rubiagatra 
+[Data Science with Python](https://github.com/rubiagatra/data-science-with-python) by Rubiagatra 
